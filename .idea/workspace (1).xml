@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="150d4eea-49f8-4a02-bb58-c0e814fc6b6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cmAw0df9jIO08hS9UQbZv5MmM3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.testFile3">
+    <configuration name="Manager3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FapespTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Manager3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FapespTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testFile2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FapespTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testFile2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testFile3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FapespTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testFile3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FapespTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testFile3" />
+        <item itemvalue="Python.testFile2" />
+        <item itemvalue="Python.testFile" />
+        <item itemvalue="Python.Manager3" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="150d4eea-49f8-4a02-bb58-c0e814fc6b6d" name="Default Changelist" comment="" />
+      <created>1584726602563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584726602563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="321" key="GridCell.Tab.0.bottom" timestamp="1595250956969">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="288" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1591215603651" />
+    <state width="1419" height="321" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1595250956969" />
+    <state width="1419" height="273" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1592099086827" />
+    <state width="1419" height="54" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1593106494930" />
+    <state width="1419" height="189" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1592167403714" />
+    <state width="1419" height="189" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1592174740411" />
+    <state width="1419" height="321" key="GridCell.Tab.0.center" timestamp="1595250956968">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="288" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1591215603651" />
+    <state width="1419" height="321" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1595250956968" />
+    <state width="1419" height="273" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1592099086826" />
+    <state width="1419" height="54" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1593106494929" />
+    <state width="1419" height="189" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1592167403713" />
+    <state width="1419" height="189" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1592174740411" />
+    <state width="1419" height="321" key="GridCell.Tab.0.left" timestamp="1595250956968">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="288" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1591215603650" />
+    <state width="1419" height="321" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1595250956968" />
+    <state width="1419" height="273" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1592099086826" />
+    <state width="1419" height="54" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1593106494928" />
+    <state width="1419" height="189" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1592167403713" />
+    <state width="1419" height="189" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1592174740410" />
+    <state width="1419" height="321" key="GridCell.Tab.0.right" timestamp="1595250956969">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="288" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1591215603651" />
+    <state width="1419" height="321" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1595250956969" />
+    <state width="1419" height="273" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1592099086827" />
+    <state width="1419" height="54" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1593106494929" />
+    <state width="1419" height="189" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1592167403714" />
+    <state width="1419" height="189" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1592174740411" />
+    <state width="1419" height="263" key="GridCell.Tab.1.bottom" timestamp="1592109455391">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="263" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1592109455391" />
+    <state width="1419" height="263" key="GridCell.Tab.1.center" timestamp="1592109455390">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="263" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1592109455390" />
+    <state width="1419" height="263" key="GridCell.Tab.1.left" timestamp="1592109455390">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="263" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1592109455390" />
+    <state width="1419" height="263" key="GridCell.Tab.1.right" timestamp="1592109455391">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="263" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1592109455391" />
+    <state x="229" y="74" key="SettingsEditor" timestamp="1591123810651">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="229" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1591123810651" />
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup" timestamp="1595245891709">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1595245891709" />
+  </component>
+</project>
