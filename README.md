@@ -17,7 +17,7 @@ In the following figure, the architecture for research grant classification is s
 
 
 ## Main results
-In the following figure are shown the results based on accuracy rate obtained from the evaluation of each researcher feature. I considered projects from the Medicine, Dentistry and Veterinary Medicine areas. From each researcher I considered seven features and their variations. I found that research subject and publication history play a role in predicting productivity, and institution-based features were relevant when combined with other features. 
+In the following figures are shown the results based on accuracy rate obtained from the evaluation of each researcher feature. I considered projects from the Medicine, Dentistry and Veterinary Medicine areas. From each researcher I considered seven features and their variations. I found that research subject and publication history play a role in predicting productivity, and institution-based features were relevant when combined with other features. 
 
 <img src="fc_medicine.png" width="450" height="250">
 <img src="fc_dentistry.png" width="450" height="250">
