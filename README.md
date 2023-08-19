@@ -2,7 +2,8 @@
 Classification of research grants using text features and bibliometric features. In this work I investigated whether text features extracted from the titles and abstracts of research grant proposals can be used to identify productive grants in the fields of Medicine, Dentistry, and Veterinary Medicine. I also investigated whether bibliometric features could predict the success of research grants of Brazilian researchers. I extracted features related to the researchers' academic history, including research topics, affiliations, number of publications, and visibility.
  
 ## Datasets
-aa
+
+The dataset comprises a subset of grants offered by São Paulo Research Foundation (FAPESP). FAPESP is an important public research foundation in Brazil and is fully funded bythe State of São Paulo. I focused the analysis on regular grants, which are grants with an average duration of 18–24 months. I decided to study this type of grant because the Biblioteca Virtual has a large number of regular grants (roughly 31,000 instances). I selected research grants starting before 2016 with duration between 23 and 24 months. Each research grant has a list of associated publications. Grants funded by FAPESP cover a wide variety of research areas, including, e.g. Health, Biological and Earth Sciences. This analysis was conducted in the three largest fields: Medicine (MED), Dentistry (DENT) and Veterinary Medicine (VET).
 
 ## Methodology
 <img src="fc_arquitecture.png" width="650" height="450">
