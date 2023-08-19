@@ -17,7 +17,10 @@ In the following figure, the architecture for research grant classification is s
 
 
 ## Main results
-aa
+
+<img src="fc_medicine.png" width="450" height="250">
+<img src="fc_dentistry.png" width="450" height="250">
+<img src="fc_veterinary.png" width="450" height="250">
 
 ## References
 [Analyzing the relationship between text features and grants productivity](https://link.springer.com/article/10.1007/s11192-021-03926-x). JAV Tohalino, LVC Quispe, DR Amancio. Scientometrics 126, 4255-4275
