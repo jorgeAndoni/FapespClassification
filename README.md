@@ -10,7 +10,7 @@ This paper aimed to investigate whether bibliometric features could predict the 
 aa
 
 ## Methodology
-aa
+<img src="fc_arquitecture.png" width="650" height="450">
 
 ## Main results
 aa
